@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "cra-v4-monorepo-eslint",
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
