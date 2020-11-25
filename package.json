@@ -15,13 +15,13 @@
     "build": "cd ./packages/web && yarn run build"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.6.1",
-    "@typescript-eslint/parser": "^4.6.1",
-    "eslint": "^7.12.1",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
     "lerna": "^3.22.1",
-    "prettier": "^2.1.2",
-    "typescript": "^4.0.5"
+    "prettier": "^2.2.0",
+    "typescript": "^4.1.2"
   }
 }
