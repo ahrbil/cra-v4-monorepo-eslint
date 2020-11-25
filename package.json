@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "lerna run start --stream",
-    "build": "cd ./packages/web & yarn run build"
+    "build": "cd ./packages/web && yarn run build"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.6.1",
